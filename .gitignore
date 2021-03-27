@@ -3,3 +3,6 @@ venv/
 
 .vscode
 
+ac_practice_fifa/fifa_data/*.csv
+ac_practice_fifa/leagues_data/*.csv
+
